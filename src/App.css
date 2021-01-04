@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.Task{
+  display: flex;
+  justify-content: space-evenly;
+  width: 20%;
+  margin: 10px 40%;
+ 
+}
+
+.Add{
+  margin-bottom: 70px;
+}
+
+.isDone{
+  width: 70px
+}
+
+.edit-btn{
+  height: 30px;
+  width: 60px;
+  margin-top: 10px
+}
+
+.task-description{
+  width:80px;
+  height:auto;
+}
+
+.task-input{
+  height:20px;
+  width:80px;
+  margin-top: 10px;
+}
+
+.ListTask{
+  display: inline;
+}
+
+.Filter{
+  display: flex;
+  justify-content: space-evenly;
+  width:20%;
+  margin: 10px 41.5%;
+}
